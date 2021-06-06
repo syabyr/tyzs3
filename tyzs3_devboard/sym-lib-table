@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tyzs3_devboard-rescue)(type Legacy)(uri ${KIPRJMOD}/tyzs3_devboard-rescue.lib)(options "")(descr ""))
+)
